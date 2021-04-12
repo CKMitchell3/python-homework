@@ -1,2 +1,6 @@
 **/.env
 **/.DS_Store
+**/.alpaca_api_keys.env
+__pycache__/
+*.py[cod]
+*$py.class
